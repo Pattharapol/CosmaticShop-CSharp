@@ -1,0 +1,12 @@
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\bin\Release\CosmaticShopApplication.exe.config
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\bin\Release\CosmaticShopApplication.exe
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\bin\Release\CosmaticShopApplication.pdb
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.csprojResolveAssemblyReference.cache
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.Forms.StartUpForm.resources
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.Forms.UserForms.frmUserType.resources
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.HomeForm.resources
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.Properties.Resources.resources
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.csproj.GenerateResource.Cache
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.exe
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.pdb
+D:\Coding\C#\CosmeticShop\Appication\CosmaticShopApplication\CosmaticShopApplication\obj\Release\CosmaticShopApplication.Forms.EmployeeForms.frmEmployee.resources
